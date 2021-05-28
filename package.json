@@ -1,0 +1,19 @@
+{
+  "name": "sonar-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Connor-McCann/Sonar-JavaScript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Connor-McCann/Sonar-JavaScript/issues"
+  },
+  "homepage": "https://github.com/Connor-McCann/Sonar-JavaScript#readme"
+}
